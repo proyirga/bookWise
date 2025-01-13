@@ -1,0 +1,5 @@
+Create project - pnpx create-next-app@latest
+Initialize shadcn - headover to shadcn website - pnpm dlx shadcn@latest init
+Configure linting, plugins, etc neccessary
+Cleaning pages
+Themes configuration - Configure tailwind.config.ts and globals.css
