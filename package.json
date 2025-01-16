@@ -7,9 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "db:generate": "pnpx drizzle-kit generate",
-    "db:migrate": "pnpx drizzle-kit migrate",
-    "db:studio": "pnpx drizzle-kit studio"
+    "db:generate": "npx drizzle-kit generate",
+    "db:migrate": "npx drizzle-kit migrate",
+    "db:studio": "npx drizzle-kit studio"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
